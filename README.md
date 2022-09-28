@@ -1,2 +1,2 @@
-# material_show
-上亿大项目
+# xEditor
+editor for 2D
